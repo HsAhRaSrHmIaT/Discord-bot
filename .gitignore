@@ -1,3 +1,5 @@
 .env
 .idea
 discord-bot
+__pycache__
+*.pyc
